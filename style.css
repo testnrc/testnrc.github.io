@@ -1,0 +1,18 @@
+body{
+  background-color: #CCEFFF;
+  margin:0;
+  font-family: Helvetica, Arial, Verdana;
+}
+
+h1{
+  font-family: 'Baloo Chettan', cursive;
+}
+
+#blog-posts{
+  width:500px;
+  margin: 0 auto;
+}
+
+.questions li{
+  padding: 3px 0px;
+}
